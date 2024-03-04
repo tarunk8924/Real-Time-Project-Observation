@@ -1,0 +1,50 @@
+PROJECT NAME : Digital Voting System
+
+To develop voting system in such a manner so that we can eensure no tampering of votes and enhance the authentication and verification process of the election.
+A pattern recognition system works by the acquired data and comparing the features set against the data stored in the remotely and safe database.
+
+SYSTEM REQUIREMENTS :
+a) Hardware :
+SECUGEN Hu20 Pro ----- The Hamster Pro is high resolution based image quality USB fingerprint reader that is quite affordable and work for a very large number of deployments.
+RAM 1GB
+INTEL PROCESSOR of i5
+b) Software :
+WINDOWS OS
+SUBLIME TEXT ------- Software editor using data mining.
+MS VISUAL STUDIO 2022
+mySQL
+ATOM
+
+TECH STACK :
+C#
+.Net Framework
+MySQL
+
+INTERFACE :
+a) Admin Section :
+Add Candidate
+Add Voter
+Add Election
+Admin Login
+Admin Menu
+Results
+b) Non-Admin Section :
+( Voters and other people )
+Take Election
+View Candidate
+View Result
+Finger Vote
+c) Database :
+Even admin wont have access to the database . Only higher officials can authorize the database.
+
+INSTALLATION OF MS Visual Studio 2022 :
+Step 1 - Make sure your computer is ready for Visual Studio
+Step 2 - Determine which version and edition of Visual Studio to install
+Step 3 - Initiate the installation
+Step 4 - Choose workloads
+
+INSTALLATION OF SUBLIME TEXT :
+Go to http://www.sublimetext.com/3 and download the relevant file for 32-bit or 64-bit. 
+A file called Sublime Text Build # Setup.exe will be downloaded. 
+Open the file and you will be guided through the setup. 
+Click on Next and choose setup location.
